@@ -4,6 +4,7 @@
 [![Downloads](https://static.pepy.tech/badge/urbanpy/week)](https://pepy.tech/project/urbanpy)
 ![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge.svg)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/urbanpy/readme&dt=&tid=UA-4677001-16)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEL-BID%2Furbanpy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEL-BID%2Furbanpy?ref=badge_shield)
 
 # Welcome to UrbanPy :city_sunrise:
 
@@ -102,6 +103,9 @@ $ source .env/bin/activate
 ## License
 
 UrbanPy is licensed under the [GPL-3](LICENSE) license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEL-BID%2Furbanpy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEL-BID%2Furbanpy?ref=badge_large)
 
 ## Authors
 
